@@ -1,0 +1,3 @@
+# Numpy has introduced a change that breaks compability with theano, therefor we're not gonna use newer versions
+numpy 
+
