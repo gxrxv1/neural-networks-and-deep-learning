@@ -3,7 +3,7 @@
 *.pem
 *.pkl
 *.pyc
-*.vscode
+.vscode/
 .DS_Store
 loc.py
 src/ec2
