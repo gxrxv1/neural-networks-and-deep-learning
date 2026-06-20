@@ -15,7 +15,6 @@ import random
 
 # Third-party libraries
 import numpy as np # type: ignore
-import mnist_loader
 
 
 class Network:  # Py3: no need to explicitly inherit from object
